@@ -62,8 +62,8 @@ disqus_username: https-davidkuo1986-github-io
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: b45d6c42e64ab9b4da85                            #生成的clientID
-  clientSecret: 8aed87ea92db09d9d04ac9c6ebc648592162379a    #生成的clientSecret
+  clientID: 05987debee18240ad38a                            #生成的clientID
+  clientSecret: ddc27ff311ccb1c32943dc17afbc138a9112ec18    #生成的clientSecret
   repo: davidkuo1986.github.io   #仓库名称
   owner: davidkuo1986    #github用户名
   admin: davidkuo1986
