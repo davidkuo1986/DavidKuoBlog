@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      書
-subtitle:   The Everything Store
+title:      The Everything Store
+subtitle:   The Everything Store 貝佐斯傳
 date:       2019-01-12
 author:     BY DavidKuo
 header-img: img/photo-1504608524841-42fe6f032b4b.jpg

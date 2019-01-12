@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      享受
+title:      Blue Bottle
 subtitle:   Blue Bottle
 date:       2019-01-05
 author:     BY DavidKuo
